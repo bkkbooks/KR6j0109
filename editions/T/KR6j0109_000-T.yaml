@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0109/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘聖無量壽決定光明王如來陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0937.xml
+    old_id: T19n0937
+hash: sha256:5cae6d5df504564059118dcc9b7def077b1dbb1d2625bc2d25a571fd8d87c7f9

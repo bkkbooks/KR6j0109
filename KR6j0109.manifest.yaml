@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0109/v1
+canonical_location: https://kanripo.org/bkk/KR6j0109/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說大乘聖無量壽決定光明王如來陀羅尼經
+  identifiers:
+    alt_id:
+    - T19n0937
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0937.xml
+    old_id: T19n0937
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0109_000.yaml, hash: 'sha256:5cae6d5df504564059118dcc9b7def077b1dbb1d2625bc2d25a571fd8d87c7f9'}
+  - {seq: 1, filename: KR6j0109_001.yaml, hash: 'sha256:1fa595088e9f36de3aa25337d33e292ec27f604e465b8972131458a71c92dfb5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0109_001.markers.yaml, hash: 'sha256:03acb991f285c24878e8b18e18880686fe8223b146566b092403cc8f964d12c8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0109_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2374
+  label: '佛說大乘聖無量壽決定光明
+
+    王如來陀羅尼經'
+  type: juan
+  level: 1
+hash: sha256:343e3063b51537d5495edbdb155a324027edca9026f30ee301df54857605cc1e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
