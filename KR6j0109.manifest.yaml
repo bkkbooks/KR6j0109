@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0109_000.yaml, hash: 'sha256:5cae6d5df504564059118dcc9b7def077b1dbb1d2625bc2d25a571fd8d87c7f9'}
-  - {seq: 1, filename: KR6j0109_001.yaml, hash: 'sha256:1fa595088e9f36de3aa25337d33e292ec27f604e465b8972131458a71c92dfb5'}
+  - {seq: 1, filename: KR6j0109_001.yaml, hash: 'sha256:922b7c3c56f1502aef0e1bc92c866aa6ecfd6fa44518561b1a9c52958636031f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0109_001.markers.yaml, hash: 'sha256:03acb991f285c24878e8b18e18880686fe8223b146566b092403cc8f964d12c8'}
+  - {seq: 0, role: markers, filename: assets/KR6j0109_000.markers.yaml, hash: 'sha256:ff37138f487abfddbd872078f13d5f54d8e319d442a17b3f8bc4259028b38a56'}
+  - {seq: 1, role: markers, filename: assets/KR6j0109_001.markers.yaml, hash: 'sha256:db2bfc5902dd7b20039958a33d6fcc9fa55d2aadc135d29da9b5d2986d49d988'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,7 +48,4 @@ table_of_contents:
     王如來陀羅尼經'
   type: juan
   level: 1
-hash: sha256:343e3063b51537d5495edbdb155a324027edca9026f30ee301df54857605cc1e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0a355911f876d5aa13019513f23c4c872c8c631f2605773905e8dfcb67adc468
