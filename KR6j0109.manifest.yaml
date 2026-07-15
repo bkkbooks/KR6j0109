@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0109/v1
 canonical_location: https://kanripo.org/bkk/KR6j0109/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大乘聖無量壽決定光明王如來陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0109_000.yaml, hash: 'sha256:5cae6d5df504564059118dcc9b7def077b1dbb1d2625bc2d25a571fd8d87c7f9'}
-  - {seq: 1, filename: KR6j0109_001.yaml, hash: 'sha256:922b7c3c56f1502aef0e1bc92c866aa6ecfd6fa44518561b1a9c52958636031f'}
+  - {seq: 1, filename: KR6j0109_001.yaml, hash: 'sha256:7ef00ee8a745d4e04a9496df7e03ed8d82fa551bcea2156e11c5e89bb0f5ba19'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0109_000.markers.yaml, hash: 'sha256:ff37138f487abfddbd872078f13d5f54d8e319d442a17b3f8bc4259028b38a56'}
-  - {seq: 1, role: markers, filename: assets/KR6j0109_001.markers.yaml, hash: 'sha256:db2bfc5902dd7b20039958a33d6fcc9fa55d2aadc135d29da9b5d2986d49d988'}
+  - {seq: 1, role: markers, filename: assets/KR6j0109_001.markers.yaml, hash: 'sha256:dd119bb49ef0771e24446757a50c25f0a17aac758648a20dbdb51e0738e472b2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     王如來陀羅尼經'
   type: juan
   level: 1
-hash: sha256:0a355911f876d5aa13019513f23c4c872c8c631f2605773905e8dfcb67adc468
+hash: sha256:e4ce319ca3f79130e755acbb8aa0317dbd314de0878468ee3e1d3aac5c24765f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
